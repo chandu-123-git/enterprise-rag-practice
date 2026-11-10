@@ -1,0 +1,72 @@
+[
+  {
+    "user_id": "a_employee",
+    "tenant_id": "org_a",
+    "roles": [
+      "employee"
+    ],
+    "description": "Standard employee training account."
+  },
+  {
+    "user_id": "a_hr_manager",
+    "tenant_id": "org_a",
+    "roles": [
+      "employee",
+      "hr_manager"
+    ],
+    "description": "HR manager training account; also has employee access."
+  },
+  {
+    "user_id": "a_finance_user",
+    "tenant_id": "org_a",
+    "roles": [
+      "employee",
+      "finance_user"
+    ],
+    "description": "Finance training account; also has employee access."
+  },
+  {
+    "user_id": "a_engineering_user",
+    "tenant_id": "org_a",
+    "roles": [
+      "employee",
+      "engineering_user"
+    ],
+    "description": "Engineering training account; also has employee access."
+  },
+  {
+    "user_id": "b_employee",
+    "tenant_id": "org_b",
+    "roles": [
+      "employee"
+    ],
+    "description": "Standard employee training account."
+  },
+  {
+    "user_id": "b_hr_manager",
+    "tenant_id": "org_b",
+    "roles": [
+      "employee",
+      "hr_manager"
+    ],
+    "description": "HR manager training account; also has employee access."
+  },
+  {
+    "user_id": "b_finance_user",
+    "tenant_id": "org_b",
+    "roles": [
+      "employee",
+      "finance_user"
+    ],
+    "description": "Finance training account; also has employee access."
+  },
+  {
+    "user_id": "b_engineering_user",
+    "tenant_id": "org_b",
+    "roles": [
+      "employee",
+      "engineering_user"
+    ],
+    "description": "Engineering training account; also has employee access."
+  }
+]
